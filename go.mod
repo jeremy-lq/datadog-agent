@@ -106,7 +106,7 @@ require (
 	github.com/golang/snappy v0.0.3 // indirect
 	github.com/google/go-cmp v0.5.5 // indirect
 	github.com/google/gofuzz v1.2.0
-	github.com/google/gopacket v1.1.17
+	github.com/google/gopacket v1.1.19
 	github.com/google/pprof v0.0.0-20210125172800-10e9aeb4a998
 	github.com/gorilla/mux v1.8.0
 	github.com/gosnmp/gosnmp v1.31.0
@@ -150,7 +150,7 @@ require (
 	github.com/shirou/gopsutil v3.21.4+incompatible
 	github.com/shirou/w32 v0.0.0-20160930032740-bb4de0191aa4
 	github.com/shuLhan/go-bindata v3.6.1+incompatible
-	github.com/spf13/afero v1.2.2
+	github.com/spf13/afero v1.6.0
 	github.com/spf13/cobra v1.1.1
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
